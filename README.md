@@ -17,6 +17,6 @@ Sou Xavier, um entusiasta da tecnologia e do desenvolvimento de software. Estou 
 
 
 - [LinkedIn](https://www.linkedin.com/in/wellington-xavier-90a004300/)
-- [Portfólio Online](https://xavierdev.pages.dev))
+- [Portfólio Online](https://xavierdev.pages.dev)
 
 
